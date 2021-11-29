@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "c0879920b884b209",
+    "type": "split",
+    "children": [
+      {
+        "id": "95b22a7cd63b31a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day notes/2021-11-29.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52b82539e6371aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4ac85f7727b4ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab2f54123586e45a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "98959ce110f4fcf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SFSTRY0005550",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "da0e36c612e4d669",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d57c200bb57f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae0caefddf4e0aef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day notes/2021-11-29.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92ee35c6887ed21c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "active": "95b22a7cd63b31a6",
+  "lastOpenFiles": [
+    "Day notes/2021-11-29.md",
+    "Day notes/2021-11-26.md",
+    "Day notes/2021-11-23.md",
+    "Day notes/2021-11-16.md",
+    "Day notes/2021-11-25.md",
+    "Day notes/2021-11-24.md",
+    "Day notes/2021-11-22.md",
+    "Day notes/2021-11-19.md",
+    "Day notes/2021-11-17.md",
+    "Day notes/2021-11-15.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "useTab": true,
+  "fileSortOrder": "alphabeticalReverse",
+  "showFrontmatter": true,
+  "tabSize": 3
+}
