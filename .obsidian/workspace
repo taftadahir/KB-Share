@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "95b22a7cd63b31a6",
+        "id": "3fa5248d50f61e8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day notes/2021-11-29.md",
-            "mode": "source"
+            "file": "CSA/ServiceNow-Rome_CSA-2021/ServiceNow-Rome_CSA-2021/Personal Notes/Practice (Modules - Tables - Roles).md",
+            "mode": "preview"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da0e36c612e4d669",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day notes/2021-11-29.md",
+                "file": "CSA/ServiceNow-Rome_CSA-2021/ServiceNow-Rome_CSA-2021/Personal Notes/Practice (Modules - Tables - Roles).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,19 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 390.5
   },
-  "active": "95b22a7cd63b31a6",
+  "active": "3fa5248d50f61e8c",
   "lastOpenFiles": [
+    "CSA/ServiceNow-Rome_CSA-2021/ServiceNow-Rome_CSA-2021/Personal Notes/Practice (Modules - Tables - Roles).md",
+    "Day notes/2021-12-04.md",
+    "Day notes/2021-12-03.md",
+    "Day notes/2021-12-02.md",
+    "Day notes/2021-12-01.md",
+    "Day notes/2021-11-30.md",
+    "Day notes/2021-11-02.md",
     "Day notes/2021-11-29.md",
-    "Day notes/2021-11-26.md",
-    "Day notes/2021-11-23.md",
-    "Day notes/2021-11-16.md",
-    "Day notes/2021-11-25.md",
-    "Day notes/2021-11-24.md",
-    "Day notes/2021-11-22.md",
-    "Day notes/2021-11-19.md",
-    "Day notes/2021-11-17.md",
-    "Day notes/2021-11-15.md"
+    "images/Case close error.PNG",
+    "Day notes/2021-11-23.md"
   ]
 }

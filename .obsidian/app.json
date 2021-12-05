@@ -6,5 +6,6 @@
   "useTab": true,
   "fileSortOrder": "alphabeticalReverse",
   "showFrontmatter": true,
-  "tabSize": 3
+  "tabSize": 3,
+  "readableLineLength": false
 }

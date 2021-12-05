@@ -1,10 +1,10 @@
 {
-  "frameless": true,
+  "frameless": false,
   "hideRibbon": false,
   "hideStatus": true,
-  "hideScroll": false,
-  "hideTooltips": true,
+  "hideScroll": true,
+  "hideTooltips": false,
   "hideSearchSuggestions": true,
-  "hideInstructions": true,
+  "hideInstructions": false,
   "hideMeta": true
 }
