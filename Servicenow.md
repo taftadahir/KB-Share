@@ -1,2 +1,17 @@
 - [Moving a dashboard via update set does not carry over all widgets when the dashboard tab is broken](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0761169)
 - [What table(s) hold the variable and variable values for a request item?](https://community.servicenow.com/community?id=community_question&sys_id=003f5037dbcf23409540e15b8a9619ff)
+- CSA Prep
+	- Self-Service
+	- Flow
+		- Spokes
+			- Servicenow core
+	- Dot-Walking
+	- Client script
+		- Type
+			- onCellEdit ???
+				- List editor - Inline edit on list
+
+- [Choose Your Own ServiceNow CSA Study Experience:](https://www.certification-questions.com/servicenow-dumps/csa.html)
+- [https://www.certification-questions.com/servicenow-dumps/csa.html](https://nowlearning.service-now.com/lxp?id=overview&sys_id=6b78901c1b748050b1c7fe631a4bcb73&type=path)
+- [# ServiceNow CSA Certification Exam Syllabus](https://www.processexam.com/servicenow/servicenow-csa-certification-exam-syllabus)
+- [# ServiceNow System Administrator Certification](https://quizlet.com/24755951/servicenow-system-administrator-certification-flash-cards/)

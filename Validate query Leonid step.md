@@ -1,0 +1,27 @@
+- [ ] Get the Dealer
+- [ ] Impersonate a dealer
+- [ ] Dealer can Access portal
+- [ ] Dealer Access to kb
+- [ ] Dealer Can see kb articles
+- [ ] Dealer Can access cat items
+- [ ] Dealer Can see category & well structured
+- [ ] Dealer Check cat items variables and validations
+- [ ] Dealer Submit cases & check if dealer has access details
+- [ ] Dealer Can Provide comment
+- [ ] Dealer Can close case
+- [ ] Dealer can see lists(all list) and can see the correct infos
+- [ ] Get fulfiller
+- [ ] Impersonate Fulfiller
+- [ ] Fulfiller can access Backend
+- [ ] Fulfiller can access cases
+- [ ] Open created case
+- [ ] Check details and validation on backend
+- [ ] Check assignment group
+- [ ] Check if case is assigned
+- [ ] Check Slas are running
+	- [ ] If not running, check if case is assigned or if we are on working time in Australia
+- [ ] Assign case and check if response SLA get closed and resolution SLA is running
+- [ ] Check reporting and dashboards
+- [ ] Check if notifications are created
+- [ ] End Impersonation
+- [ ] Compare Requirement vs implementation

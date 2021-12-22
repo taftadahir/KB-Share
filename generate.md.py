@@ -1,28 +1,44 @@
-gene_query_name = 'Star Rewards Results - Vans'
-gene_view_name = 'star_rewards_results_vans'
-gene_description = 'Clarification of ranking or points allocation in Star Rewards'
-gene_short_description = 'Clarification of ranking or points allocation in Star Rewards'
-gene_category = '(Vans) -> Retail Sales'
-gene_assignment_group = 'MBAuP Retail Sales Vans AU'
+gene_query_name = 'General Query - Master Data'
+gene_view_name = 'general_query_master_data'
+gene_description = 'General query related to Master Data.'
+gene_short_description = 'General query related to Master Data.'
+gene_category = '"Master Data" (Finance/ "Mercedes-Benz Cars AU")'
+gene_assignment_group = '"MBAuP Master Data AU"'
 gene_priority = 'Critical'
-gene_urgency = 'Medium'
-gene_variables = ''
+gene_urgency = 'High'
+gene_variables = '''
+		- [ ] Enquiry description: *Free text*- mandatory'''
 gene_variable_sets = '''
 		- [ ] Generic OMGT-AU Case Variables'''
-gene_add_variables_form = ''
+gene_add_variables_form = '''
+			- [ ] Enquiry description'''
 gene_user_criteria = '''
-		- [ ] Australia - Dealer - General Manager Vans Australia
-		- [ ] Australia - Dealer - Director Vans
-		- [ ] Australia - Dealer - Branch General Manager Vans
-		- [ ] Australia - Dealer - General Sales Manager Vans Australia
-		- [ ] Australia - Dealer - Stock Controller Vans
-		- [ ] Australia - Dealer - Dealer Principal Vans Australia
-		- [ ] Australia - Dealer - Sales Manager Vans'''
+		- [ ] Australia - Dealer - Branch General Manager Cars
+		- [ ] Australia - Dealer - Certified Pre-Owned Sales Consultant Cars
+		- [ ] Australian - Dealer - Certified Pre-Owned Sales Manager Cars
+		- [ ] Australian - Dealer - Corporate Sales Consultant Cars
+		- [ ] Australian - Dealer - Corporate Sales Manager Cars
+		- [ ] Australian - Dealer - Dealer Principal Cars
+		- [ ] Australian - Dealer - Fleet Sales Consultant Cars
+		- [ ] Australian - Dealer - General Sales Manager Cars
+		- [ ] Australian - Dealer - New Vehicle Sales Consultant - EQ Specialist Cars
+		- [ ] Australian - Dealer - New Vehicle Sales Consultant Cars
+		- [ ] Australian - Dealer - New Vehicle Sales Manager Cars
+		- [ ] Australian - Dealer - Retail Floor Manager Cars
+		- [ ] Australian - Dealer - Sales Consultant - AMG Specialist Cars
+		- [ ] Australian - Dealer - Sales Operations Manager Cars
+		- [ ] Australian - Dealer - Sales Consultant - AMG Specialist Cars
+		- [ ] Australian - Dealer - Backup EQ coordinator
+		- [ ] Australian - Dealer - EQ coordinator
+		- [ ] Australian - Dealer - General Manager Cars
+		- [ ] Australian - Dealer - Sales Cadet Cars
+		- [ ] Australian - Dealer - General Manager Cars
+		- [ ] Australian - Dealer - Sales Cadet Cars'''
 gene_ui_policies = '''
-    - [ ] Additional detail : Mandatory'''
+    - [ ] Enquiry Description: Mandatory'''
 gene_add_fields_to_table = ''
-gene_story_number = 'SFSTRY0005424'
-gene_update_set_description = 'StarRewardsResultsVans' # Max length : 37
+gene_story_number = 'SFSTRY0005918'
+gene_update_set_description = 'GeneralQueryMasterData' # Max length : 37
 
 
 
