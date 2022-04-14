@@ -1,44 +1,35 @@
-gene_query_name = 'General Query - Master Data'
-gene_view_name = 'general_query_master_data'
-gene_description = 'General query related to Master Data.'
-gene_short_description = 'General query related to Master Data.'
-gene_category = '"Master Data" (Finance/ "Mercedes-Benz Cars AU")'
-gene_assignment_group = '"MBAuP Master Data AU"'
-gene_priority = 'Critical'
-gene_urgency = 'High'
+gene_query_name = 'CRM+ / Salesforce Query'
+gene_view_name = 'crm_salesforce_query'
+gene_description = '''General query related to the use of CRM+/Salesforce
+
+Note: general requests for access must go via the IT Service Desk.'''
+gene_short_description = 'General query related to the use of CRM+/Salesforce'
+gene_category = 'General Marketing ( Marketing ( Mercedes-Benz Cars ) )'
+gene_assignment_group = 'MBAuP PC Marketing Team AU'
+gene_priority = 'Moderate'
+gene_urgency = 'Medium'
 gene_variables = '''
-		- [ ] Enquiry description: *Free text*- mandatory'''
+		- [ ] Additional Details -> mandatory
+		- [ ] Attachment: not mandatory'''
 gene_variable_sets = '''
-		- [ ] Generic OMGT-AU Case Variables'''
+		- [ ] Generic OMGT-AU Case Variables
+		- [ ] OMGT-Overseas Additional details'''
 gene_add_variables_form = '''
-			- [ ] Enquiry description'''
+			- [ ] Additional Details -> mandatory
+			- [ ] Attachment: not mandatory'''
 gene_user_criteria = '''
-		- [ ] Australia - Dealer - Branch General Manager Cars
-		- [ ] Australia - Dealer - Certified Pre-Owned Sales Consultant Cars
-		- [ ] Australian - Dealer - Certified Pre-Owned Sales Manager Cars
-		- [ ] Australian - Dealer - Corporate Sales Consultant Cars
-		- [ ] Australian - Dealer - Corporate Sales Manager Cars
-		- [ ] Australian - Dealer - Dealer Principal Cars
-		- [ ] Australian - Dealer - Fleet Sales Consultant Cars
-		- [ ] Australian - Dealer - General Sales Manager Cars
-		- [ ] Australian - Dealer - New Vehicle Sales Consultant - EQ Specialist Cars
-		- [ ] Australian - Dealer - New Vehicle Sales Consultant Cars
-		- [ ] Australian - Dealer - New Vehicle Sales Manager Cars
-		- [ ] Australian - Dealer - Retail Floor Manager Cars
-		- [ ] Australian - Dealer - Sales Consultant - AMG Specialist Cars
-		- [ ] Australian - Dealer - Sales Operations Manager Cars
-		- [ ] Australian - Dealer - Sales Consultant - AMG Specialist Cars
-		- [ ] Australian - Dealer - Backup EQ coordinator
-		- [ ] Australian - Dealer - EQ coordinator
-		- [ ] Australian - Dealer - General Manager Cars
-		- [ ] Australian - Dealer - Sales Cadet Cars
-		- [ ] Australian - Dealer - General Manager Cars
-		- [ ] Australian - Dealer - Sales Cadet Cars'''
-gene_ui_policies = '''
-    - [ ] Enquiry Description: Mandatory'''
+		- [ ] Australia - Dealer - CRM Coordinator Cars
+		- [ ] Australia - Dealer - CRM Manager Cars
+		- [ ] Australia - Dealer - Marketing Coordinator Cars
+		- [ ] Australia - Dealer - Lead Manager Cars
+		- [ ] Australia - Dealer - Lead Consultant Cars 
+		- [ ] Australia - Dealer - General Sales Manager Cars
+		- [ ] Australia - Dealer - Marketing Manager Cars
+		- [ ] Australia - Dealer - New Vehicle Sales Manager Cars'''
+gene_ui_policies = ''
 gene_add_fields_to_table = ''
-gene_story_number = 'SFSTRY0005918'
-gene_update_set_description = 'GeneralQueryMasterData' # Max length : 37
+gene_story_number = 'SFSTRY0006341'
+gene_update_set_description = 'CRMSalesforceQuery' # Max length : 37
 
 
 
@@ -47,7 +38,7 @@ gene_table_name = 'x_4dai_omgt_mbos_au_case'
 gene_table_display_name = 'Order Management Case Australia [' + gene_table_name + ']'
 gene_owner = 'Leonid Khaylov'
 gene_catalog_name = 'Customer Service'
-gene_feature_number = 'SFFEAT0001986'
+gene_feature_number = 'SFFEAT0002173'
 gene_user_name = 'DTAFTAD'
 gene_update_set_version = 'v1'
 

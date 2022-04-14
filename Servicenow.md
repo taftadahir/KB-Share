@@ -15,3 +15,5 @@
 - [https://www.certification-questions.com/servicenow-dumps/csa.html](https://nowlearning.service-now.com/lxp?id=overview&sys_id=6b78901c1b748050b1c7fe631a4bcb73&type=path)
 - [# ServiceNow CSA Certification Exam Syllabus](https://www.processexam.com/servicenow/servicenow-csa-certification-exam-syllabus)
 - [# ServiceNow System Administrator Certification](https://quizlet.com/24755951/servicenow-system-administrator-certification-flash-cards/)
+- [# Using the Automated Test Framework](https://developer.servicenow.com/dev.do#!/learn/learning-plans/rome/servicenow_application_developer/app_store_learnv2_atf_rome_creating_parameterized_tests)
+- [Tricky ATF Task: Get Related Field Value in Record Query](https://community.servicenow.com/community?id=community_question&sys_id=21a7eef9db7fc8586064eeb5ca961998)

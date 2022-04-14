@@ -2,10 +2,19 @@
   "promptDelete": false,
   "foldHeading": true,
   "foldIndent": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "useTab": true,
   "fileSortOrder": "alphabeticalReverse",
   "showFrontmatter": true,
   "tabSize": 3,
-  "readableLineLength": false
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "fr-FR"
+  ],
+  "vimMode": true
 }

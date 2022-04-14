@@ -1,5 +1,9 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Tokyo Night",
-  "translucency": false
+  "cssTheme": "Cardstock",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Consolas"
+  ],
+  "baseFontSizeAction": true
 }

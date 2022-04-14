@@ -34,7 +34,7 @@ STRY0035700 - STSK0011243 : 6h
 
 # Friday
 Daimler
-SFSTRY0004746 - SFSTSK0003149 - 30min
+SFSTRY0004746 - SFSTSK0000315 - 30min
 SFSTRY0004364 - SFSTSK0003005 - 30min
 PTSK0003434 - 1h
 
@@ -42,3 +42,11 @@ PTSK0003434 - 1h
 Schaeffler
 STRY0035700 - STSK0011243 : 1h
 
+
+
+
+- [x] Situation actuelle
+	Contrat
+- [x] Badge
+- [x] Comment évoluer?
+- [x] Projet actuelle

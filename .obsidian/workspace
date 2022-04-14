@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cfaad732b6d3b48b",
+        "id": "6ecbdc615b111d32",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Servicenow.md",
-            "mode": "source"
+            "file": "Day notes/2022-04-13.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SFSTRY0005550",
-                "matchingCase": false,
+                "query": "network deve",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -52,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289,
+    "collapsed": true
   },
   "right": {
     "id": "da0e36c612e4d669",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicenow.md",
+                "file": "Day notes/2022-04-13.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,26 +88,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "968ac339e35c7a8e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
+    "width": 366,
     "collapsed": true
   },
-  "active": "cfaad732b6d3b48b",
+  "active": "6ecbdc615b111d32",
   "lastOpenFiles": [
-    "Servicenow.md",
-    "Day notes/2021-12-22.md",
-    "Day notes/2021-12-21.md",
-    "Day notes/2021-12-20.md",
-    "HR Servicenow/Courses.md",
-    "Create Query Generated.md",
-    "Templates/VTB.md",
-    "CSA/ServiceNow-Rome_CSA-2021/ServiceNow-Rome_CSA-2021/Personal Notes/Practice (Modules - Tables - Roles).md",
-    "Day notes/2021-12-03.md",
-    "Day notes/2021-12-02.md"
+    "Day notes/2022-04-13.md",
+    "Day notes/2022-04-12.md",
+    "Day notes/2022-04-11.md",
+    "Notes.md",
+    "Work.md",
+    "cm presentation.md",
+    "Day notes/2022-04-04.md",
+    "Day notes/2021-12-13.md",
+    "Day notes/2022-04-05.md",
+    "Day notes/2022-04-08.md"
   ]
 }
